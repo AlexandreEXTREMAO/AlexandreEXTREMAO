@@ -1,4 +1,4 @@
-## Olá! Eu sou o Alexandre Matheus, bem vindo ao meu perfil.
+## Olá! Eu sou o Alexandre Matheus, bem vindo ao meu perfil. 👋
 
 <div align="center">
   <a href="[https://github.com/AlexandreEXTREMAO](https://github.com/AlexandreEXTREMAO)">
